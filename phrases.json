@@ -248,5 +248,255 @@
     "id": 49,
     "quote": "Você sabia que o Google foi quase chamado de 'BackRub'?",
     "author": "Google"
+  },
+    {
+    "id": 50,
+    "quote": "Você sabia que o tubarão-baleia tem manchas únicas, como impressões digitais humanas?",
+    "author": "National Geographic"
+  },
+  {
+    "id": 51,
+    "quote": "Você sabia que os corvos conseguem lembrar rostos humanos por anos?",
+    "author": "BBC"
+  },
+  {
+    "id": 52,
+    "quote": "Você sabia que a maçã flutua na água porque 25% de seu volume é ar?",
+    "author": "desconhecido"
+  },
+  {
+    "id": 53,
+    "quote": "Você sabia que a barba mais longa já registrada media mais de 5 metros?",
+    "author": "Guinness World Records"
+  },
+  {
+    "id": 54,
+    "quote": "Você sabia que o cérebro consome cerca de 20% de toda a energia do corpo humano?",
+    "author": "Harvard Medical School"
+  },
+  {
+    "id": 55,
+    "quote": "Você sabia que golfinhos dormem com apenas metade do cérebro de cada vez?",
+    "author": "National Geographic"
+  },
+  {
+    "id": 56,
+    "quote": "Você sabia que o ketchup já foi vendido como remédio no século XIX?",
+    "author": "History.com"
+  },
+  {
+    "id": 57,
+    "quote": "Você sabia que a língua de uma baleia azul pode pesar mais que um elefante?",
+    "author": "desconhecido"
+  },
+  {
+    "id": 58,
+    "quote": "Você sabia que existe uma espécie de peixe que consegue andar em terra firme?",
+    "author": "BBC Earth"
+  },
+  {
+    "id": 59,
+    "quote": "Você sabia que o primeiro mouse de computador era feito de madeira?",
+    "author": "Douglas Engelbart"
+  },
+  {
+    "id": 60,
+    "quote": "Você sabia que os ursos polares são praticamente invisíveis para câmeras de visão térmica?",
+    "author": "National Geographic"
+  },
+  {
+    "id": 61,
+    "quote": "Você sabia que o cérebro de um avestruz é menor do que o olho dele?",
+    "author": "desconhecido"
+  },
+  {
+    "id": 62,
+    "quote": "Você sabia que existem mais de 7 mil linguagens faladas no mundo?",
+    "author": "Ethnologue"
+  },
+  {
+    "id": 63,
+    "quote": "Você sabia que a maior pizza do mundo tinha mais de 13 mil metros quadrados?",
+    "author": "Guinness World Records"
+  },
+  {
+    "id": 64,
+    "quote": "Você sabia que a borboleta consegue sentir sabores com os pés?",
+    "author": "desconhecido"
+  },
+  {
+    "id": 65,
+    "quote": "Você sabia que um raio pode ser mais quente que a superfície do Sol?",
+    "author": "NASA"
+  },
+  {
+    "id": 66,
+    "quote": "Você sabia que as galinhas podem sonhar como os humanos?",
+    "author": "desconhecido"
+  },
+  {
+    "id": 67,
+    "quote": "Você sabia que a Antártica é o maior deserto do mundo?",
+    "author": "National Geographic"
+  },
+  {
+    "id": 68,
+    "quote": "Você sabia que o corpo humano brilha levemente no escuro, mas é invisível ao olho humano?",
+    "author": "desconhecido"
+  },
+  {
+    "id": 69,
+    "quote": "Você sabia que a Torre Eiffel cresce até 15 cm no verão devido à dilatação do ferro?",
+    "author": "desconhecido"
+  },
+  {
+    "id": 70,
+    "quote": "Você sabia que as abelhas têm cinco olhos?",
+    "author": "desconhecido"
+  },
+  {
+    "id": 71,
+    "quote": "Você sabia que a menor rã do mundo cabe dentro de uma unha?",
+    "author": "National Geographic"
+  },
+  {
+    "id": 72,
+    "quote": "Você sabia que o coração de um camarão fica na cabeça?",
+    "author": "desconhecido"
+  },
+  {
+    "id": 73,
+    "quote": "Você sabia que a música pode reduzir a dor física em até 20%?",
+    "author": "Harvard Health"
+  },
+  {
+    "id": 74,
+    "quote": "Você sabia que existe um tipo de tartaruga que respira pela cloaca?",
+    "author": "desconhecido"
+  },
+  {
+    "id": 75,
+    "quote": "Você sabia que a maior bola de chiclete já feita tinha mais de 25 metros de diâmetro?",
+    "author": "Guinness World Records"
+  },
+  {
+    "id": 76,
+    "quote": "Você sabia que a língua do tamanduá pode chegar a 60 cm?",
+    "author": "desconhecido"
+  },
+  {
+    "id": 77,
+    "quote": "Você sabia que a primeira foto colorida foi tirada em 1861?",
+    "author": "James Clerk Maxwell"
+  },
+  {
+    "id": 78,
+    "quote": "Você sabia que a cada segundo caem cerca de 100 raios na Terra?",
+    "author": "National Weather Service"
+  },
+  {
+    "id": 79,
+    "quote": "Você sabia que os humanos compartilham 60% do DNA com as bananas?",
+    "author": "desconhecido"
+  },
+  {
+    "id": 80,
+    "quote": "Você sabia que o maior animal que já existiu na Terra é a baleia azul?",
+    "author": "National Geographic"
+  },
+  {
+    "id": 81,
+    "quote": "Você sabia que os flamingos nascem cinzas e ficam cor-de-rosa por causa da alimentação?",
+    "author": "desconhecido"
+  },
+  {
+    "id": 82,
+    "quote": "Você sabia que o coração humano pode continuar batendo fora do corpo por alguns minutos?",
+    "author": "desconhecido"
+  },
+  {
+    "id": 83,
+    "quote": "Você sabia que as cebolas fazem você chorar porque liberam ácido sulfênico?",
+    "author": "desconhecido"
+  },
+  {
+    "id": 84,
+    "quote": "Você sabia que os golfinhos usam esponjas como ferramentas para se protegerem?",
+    "author": "National Geographic"
+  },
+  {
+    "id": 85,
+    "quote": "Você sabia que existe uma espécie de caracol que pode dormir por três anos seguidos?",
+    "author": "desconhecido"
+  },
+  {
+    "id": 86,
+    "quote": "Você sabia que os vaga-lumes piscam em sincronia em algumas regiões do mundo?",
+    "author": "BBC"
+  },
+  {
+    "id": 87,
+    "quote": "Você sabia que o sangue de caranguejo-ferradura é azul por causa do cobre?",
+    "author": "Smithsonian"
+  },
+  {
+    "id": 88,
+    "quote": "Você sabia que alguns peixes podem trocar de sexo ao longo da vida?",
+    "author": "desconhecido"
+  },
+  {
+    "id": 89,
+    "quote": "Você sabia que o maior órgão do corpo humano é a pele?",
+    "author": "desconhecido"
+  },
+  {
+    "id": 90,
+    "quote": "Você sabia que as aranhas não conseguem voar, mas podem 'navegar' no vento com fios de seda?",
+    "author": "desconhecido"
+  },
+  {
+    "id": 91,
+    "quote": "Você sabia que o DNA humano daria para ir e voltar da Lua mais de 6000 vezes se fosse esticado?",
+    "author": "desconhecido"
+  },
+  {
+    "id": 92,
+    "quote": "Você sabia que o primeiro site da internet ainda está online?",
+    "author": "CERN"
+  },
+  {
+    "id": 93,
+    "quote": "Você sabia que os polvos podem mudar de cor para se camuflar e também para expressar emoções?",
+    "author": "National Geographic"
+  },
+  {
+    "id": 94,
+    "quote": "Você sabia que uma estrela-do-mar pode regenerar um braço perdido e, às vezes, até gerar um novo corpo a partir dele?",
+    "author": "desconhecido"
+  },
+  {
+    "id": 95,
+    "quote": "Você sabia que o som de um trovão pode ser ouvido a mais de 15 km de distância?",
+    "author": "National Weather Service"
+  },
+  {
+    "id": 96,
+    "quote": "Você sabia que o maior deserto de areia do mundo não é o Saara, mas sim a Antártica em forma de gelo?",
+    "author": "desconhecido"
+  },
+  {
+    "id": 97,
+    "quote": "Você sabia que alguns pássaros conseguem dormir enquanto voam?",
+    "author": "BBC Earth"
+  },
+  {
+    "id": 98,
+    "quote": "Você sabia que existe mais de 4000 espécies diferentes de batata no mundo?",
+    "author": "FAO"
+  },
+  {
+    "id": 99,
+    "quote": "Você sabia que os diamantes podem se formar em condições extremas dentro de planetas como Netuno e Urano?",
+    "author": "NASA"
   }
 ]

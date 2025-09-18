@@ -14,7 +14,7 @@ body {
 .estrutura {
     max-width: 960px;
     height: 75vh;
-    margin: 140px auto;
+    margin: 30px auto;
     padding: 40px;
     position: relative;
     display: flex;
@@ -65,7 +65,7 @@ body {
     cursor: pointer;
     margin-top: 40px;
     font-size: .975rem;
-    border-radius: 4px;
+    border-radius: 9999px;
     box-shadow: 0 0 0 0 rgba(0, 1, 37, .7);
     transition: .3s ease;
     outline: none;
@@ -101,6 +101,20 @@ body {
 
 .estrutura footer p a:hover {
     text-decoration: underline;
+}
+
+.imagem {
+    max-width: 150px;
+    max-height: 150px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+}
+
+.imagem img {
+    max-width: 100px;
+    max-height: 100px;
+    margin: 50 0;
 }
 
 @media(max-width:560px) {
